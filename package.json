@@ -1,0 +1,21 @@
+{
+  "name": "hapi-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crumb": "^6.0.3",
+    "glue": "^4.1.0",
+    "hapi": "^16.1.0",
+    "hapi-auth-jwt2": "^7.2.4",
+    "hapi-node-postgres": "^4.0.1",
+    "jsonwebtoken": "^7.2.1",
+    "pg": "^6.1.2"
+  }
+}
